@@ -48,5 +48,5 @@ This project is licensed under the **MIT License**.
 ---
 
 **🔗 Connect with Me:**  
-[GitHub](https://github.com/Arpan-14) | [LinkedIn]([https://www.linkedin.com/in/arpan-tamrakar])
+[GitHub](https://github.com/Arpan-14) | [LinkedIn](https://www.linkedin.com/in/arpan-tamrakar)
 
